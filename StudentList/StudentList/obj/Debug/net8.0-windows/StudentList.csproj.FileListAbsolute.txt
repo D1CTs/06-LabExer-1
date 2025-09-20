@@ -1,0 +1,16 @@
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\bin\Debug\net8.0-windows\StudentList.exe
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\bin\Debug\net8.0-windows\StudentList.deps.json
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\bin\Debug\net8.0-windows\StudentList.runtimeconfig.json
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\bin\Debug\net8.0-windows\StudentList.dll
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\bin\Debug\net8.0-windows\StudentList.pdb
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\StudentList.Form1.resources
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\StudentList.csproj.GenerateResource.cache
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\StudentList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\StudentList.AssemblyInfoInputs.cache
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\StudentList.AssemblyInfo.cs
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\StudentList.csproj.CoreCompileInputs.cache
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\StudentList.dll
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\refint\StudentList.dll
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\StudentList.pdb
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\StudentList.genruntimeconfig.cache
+D:\Shawn's\School\2.1\ComProg3\StudentList\StudentList\obj\Debug\net8.0-windows\ref\StudentList.dll
